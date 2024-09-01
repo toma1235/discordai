@@ -1,0 +1,3 @@
+0 Pappagallo
+1 Scimpanze
+2 Cats
